@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: url(background.jpg);
+}
+
+#c1{
+    text-align: center;
+    
+    
+}
+
+#logo{
+    width: 200px;
+    margin-top: 80px;
+}
+
+h2{
+    color: rgba(0,255,0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+
+#c2{
+    border-radius: 10px;
+    margin: auto;
+    width: 1000px;
+    height: 850px;
+    background-color: rgba(0, 0, 0, 0.5)
+    
+    
+}
+
+#c3{
+    background-color: rgba(0,255,0);
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+}
+
+#c4{
+    width: 1000px;
+    text-align: left;
+    margin-left: 50px;
+    
+} 
+
+h3{
+    height: 0px;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255)
+      
+}
+
+.cbs1{
+    display: inline-block;
+}
+
+h4{
+    height: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(255,255,255,0.9)
+    
+}
+
+#b1{
+    width: 400px;
+    background-color: darkorange;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#b2{
+    width: 700px;
+    background-color: rgb(5, 150, 5);
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#b3{
+    width: 200px;
+    background-color: rgb(150, 5, 5);
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+
+
